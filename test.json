@@ -1,0 +1,31 @@
+{
+  "score": 70,
+  "full_score": 100,
+  "tests": {
+    "q1": "PASS (10/10)",
+    "q2": "PASS (10/10)",
+    "q3": "PASS (10/10)",
+    "q4": "PASS (10/10)",
+    "q5": [
+      "Traceback (most recent call last):\n",
+      "  File \"/home/owner/project-4-junho_4/tester.py\", line 33, in run\n    result = self.func()\n",
+      "  File \"/home/owner/project-4-junho_4/autograde.py\", line 306, in q5\n    assert len(d) == 2\n",
+      "AssertionError\n"
+    ],
+    "q6": [
+      "Traceback (most recent call last):\n",
+      "  File \"/home/owner/project-4-junho_4/tester.py\", line 33, in run\n    result = self.func()\n",
+      "  File \"/home/owner/project-4-junho_4/autograde.py\", line 313, in q6\n    assert ANSWERS[6] == \"b'activity_y'\"\n",
+      "AssertionError\n"
+    ],
+    "q7": "PASS (10/10)",
+    "q8": "PASS (10/10)",
+    "q9": [
+      "Traceback (most recent call last):\n",
+      "  File \"/home/owner/project-4-junho_4/tester.py\", line 33, in run\n    result = self.func()\n",
+      "  File \"/home/owner/project-4-junho_4/autograde.py\", line 331, in q9\n    assert len(d) == 2\n",
+      "AssertionError\n"
+    ],
+    "q10": "PASS (10/10)"
+  }
+}
